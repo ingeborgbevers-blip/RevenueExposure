@@ -1,6 +1,6 @@
 # Ecommerce Revenue Exposure & Payment Reconciliation Control
 
-![Power BI Dashboard](.png)
+![Power BI Dashboard](Finance%20investigation%20view.png)
 
 ## Overview
 
